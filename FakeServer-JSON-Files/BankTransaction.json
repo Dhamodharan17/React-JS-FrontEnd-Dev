@@ -1,0 +1,5726 @@
+[
+  {
+    "Account No": "409000611074'",
+    "DATE": 42921,
+    "TRANSACTION DETAILS": "TRF FROM  Indiaforensic SERVICES",
+    "VALUE DATE": 42921,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 2000000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42934,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42934,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2500000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42948,
+    "TRANSACTION DETAILS": "TRF FRM  Indiaforensic SERVICES",
+    "VALUE DATE": 42948,
+    "DEPOSIT AMT": 3000000,
+    "BALANCE AMT": 5500000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 6000000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 6500000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 7000000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 7500000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 8000000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 42963,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 8500000,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 133900,
+    "BALANCE AMT": 8366100,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 18000,
+    "BALANCE AMT": 8348100,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 5000,
+    "BALANCE AMT": 8343100,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 195800,
+    "BALANCE AMT": 8147300,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 81600,
+    "BALANCE AMT": 8065700,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 41800,
+    "BALANCE AMT": 8023900,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 98500,
+    "BALANCE AMT": 7925400,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 143800,
+    "BALANCE AMT": 7781600,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 331650,
+    "BALANCE AMT": 7449950,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 129000,
+    "BALANCE AMT": 7320950,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 230013,
+    "BALANCE AMT": 7090937,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 367900,
+    "BALANCE AMT": 6723037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 108000,
+    "BALANCE AMT": 6615037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 64800,
+    "BALANCE AMT": 6550237,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 141000,
+    "BALANCE AMT": 6409237,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 61750,
+    "BALANCE AMT": 6347487,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 67920,
+    "BALANCE AMT": 6279567,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 78100,
+    "BALANCE AMT": 6201467,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 35650,
+    "BALANCE AMT": 6165817,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 206000,
+    "BALANCE AMT": 5959817,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 35300,
+    "BALANCE AMT": 5924517,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 49800,
+    "BALANCE AMT": 5874717,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 53000,
+    "BALANCE AMT": 5821717,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 91300,
+    "BALANCE AMT": 5730417,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 57499,
+    "BALANCE AMT": 5672918,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 20000,
+    "BALANCE AMT": 5652918,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42963,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31071",
+    "VALUE DATE": 42963,
+    "WITHDRAWAL AMT": 19400,
+    "BALANCE AMT": 5633518,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 40500,
+    "BALANCE AMT": 5593018,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 242300,
+    "BALANCE AMT": 5350718,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 90100,
+    "BALANCE AMT": 5260618,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 113250,
+    "BALANCE AMT": 5147368,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 12500,
+    "BALANCE AMT": 5134868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 40000,
+    "BALANCE AMT": 5094868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 206900,
+    "BALANCE AMT": 4887968,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 276000,
+    "BALANCE AMT": 4611968,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 171000,
+    "BALANCE AMT": 4440968,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 40100,
+    "BALANCE AMT": 4400868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 189800,
+    "BALANCE AMT": 4211068,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 55800,
+    "BALANCE AMT": 4155268,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 95400,
+    "BALANCE AMT": 4059868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 271323,
+    "BALANCE AMT": 3788545,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 200600,
+    "BALANCE AMT": 3587945,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 176900,
+    "BALANCE AMT": 3411045,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 150050,
+    "BALANCE AMT": 3260995,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 82500,
+    "BALANCE AMT": 3178495,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 14800,
+    "BALANCE AMT": 3163695,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 150600,
+    "BALANCE AMT": 3013095,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 203325,
+    "BALANCE AMT": 2809770,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 123900,
+    "BALANCE AMT": 2685870,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 33863,
+    "BALANCE AMT": 2652007,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 32000,
+    "BALANCE AMT": 2620007,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 8299,
+    "BALANCE AMT": 2611708,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 52219,
+    "BALANCE AMT": 2559489,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 96450,
+    "BALANCE AMT": 2463039,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 139863,
+    "BALANCE AMT": 2323176,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 42984,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31081",
+    "VALUE DATE": 42984,
+    "WITHDRAWAL AMT": 52723,
+    "BALANCE AMT": 2270453,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 77251,
+    "BALANCE AMT": 2193202,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 20000,
+    "BALANCE AMT": 2173202,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 10000,
+    "BALANCE AMT": 2163202,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 103600,
+    "BALANCE AMT": 2059602,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 71000,
+    "BALANCE AMT": 1988602,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 129400,
+    "BALANCE AMT": 1859202,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 290163,
+    "BALANCE AMT": 1569039,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 34300,
+    "BALANCE AMT": 1534739,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 49800,
+    "BALANCE AMT": 1484939,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 44800,
+    "BALANCE AMT": 1440139,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 151550,
+    "BALANCE AMT": 1288589,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 310399,
+    "BALANCE AMT": 978190,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 271401,
+    "BALANCE AMT": 706789,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 275449,
+    "BALANCE AMT": 431340,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 51502,
+    "BALANCE AMT": 379838,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 36650,
+    "BALANCE AMT": 343188,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17091",
+    "VALUE DATE": 43003,
+    "WITHDRAWAL AMT": 99600,
+    "BALANCE AMT": 243588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43003,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 743588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43003,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1243588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43003,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1743588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43003,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2243588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43003,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43003,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2743588,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 411763,
+    "BALANCE AMT": 2331825,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 355138,
+    "BALANCE AMT": 1976687,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 88656,
+    "BALANCE AMT": 1888031,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 14800,
+    "BALANCE AMT": 1873231,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 27000,
+    "BALANCE AMT": 1846231,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 42850,
+    "BALANCE AMT": 1803381,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 39925,
+    "BALANCE AMT": 1763456,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43004,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25091",
+    "VALUE DATE": 43004,
+    "WITHDRAWAL AMT": 202106,
+    "BALANCE AMT": 1561350,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43005,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26091",
+    "VALUE DATE": 43005,
+    "WITHDRAWAL AMT": 169802,
+    "BALANCE AMT": 1391548,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43006,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27091",
+    "VALUE DATE": 43006,
+    "WITHDRAWAL AMT": 200570,
+    "BALANCE AMT": 1190978,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43011,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28091",
+    "VALUE DATE": 43011,
+    "WITHDRAWAL AMT": 12106,
+    "BALANCE AMT": 1178872,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43011,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29091",
+    "VALUE DATE": 43011,
+    "WITHDRAWAL AMT": 12611,
+    "BALANCE AMT": 1166261,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43011,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30091",
+    "VALUE DATE": 43011,
+    "WITHDRAWAL AMT": 9375,
+    "BALANCE AMT": 1156886,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43012,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03101",
+    "VALUE DATE": 43012,
+    "WITHDRAWAL AMT": 125200,
+    "BALANCE AMT": 1031686,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43013,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04101",
+    "VALUE DATE": 43013,
+    "WITHDRAWAL AMT": 61400,
+    "BALANCE AMT": 970286,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43014,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05101",
+    "VALUE DATE": 43014,
+    "WITHDRAWAL AMT": 143700,
+    "BALANCE AMT": 826586,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43024,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43024,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1326586,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43024,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43024,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1826586,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43024,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43024,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2326586,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 6000,
+    "BALANCE AMT": 2320586,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 97950,
+    "BALANCE AMT": 2222636,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 33000,
+    "BALANCE AMT": 2189636,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 329300,
+    "BALANCE AMT": 1860336,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 18000,
+    "BALANCE AMT": 1842336,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 113400,
+    "BALANCE AMT": 1728936,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 262226,
+    "BALANCE AMT": 1466710,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 318750,
+    "BALANCE AMT": 1147960,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43025,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14101",
+    "VALUE DATE": 43025,
+    "WITHDRAWAL AMT": 65549,
+    "BALANCE AMT": 1082411,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43026,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17101",
+    "VALUE DATE": 43026,
+    "WITHDRAWAL AMT": 206501,
+    "BALANCE AMT": 875910,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43029,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43029,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1375910,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43029,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18101",
+    "VALUE DATE": 43029,
+    "WITHDRAWAL AMT": 85000,
+    "BALANCE AMT": 1290910,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43029,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19101",
+    "VALUE DATE": 43029,
+    "WITHDRAWAL AMT": 76389,
+    "BALANCE AMT": 1214521,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43029,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20101",
+    "VALUE DATE": 43029,
+    "WITHDRAWAL AMT": 62725,
+    "BALANCE AMT": 1151796,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43031,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21101",
+    "VALUE DATE": 43031,
+    "WITHDRAWAL AMT": 39000,
+    "BALANCE AMT": 1112796,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43031,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22101",
+    "VALUE DATE": 43031,
+    "WITHDRAWAL AMT": 9600,
+    "BALANCE AMT": 1103196,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43032,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23101",
+    "VALUE DATE": 43032,
+    "WITHDRAWAL AMT": 123260,
+    "BALANCE AMT": 979936,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43033,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24101",
+    "VALUE DATE": 43033,
+    "WITHDRAWAL AMT": 369803,
+    "BALANCE AMT": 610133,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43034,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25101",
+    "VALUE DATE": 43034,
+    "WITHDRAWAL AMT": 170125,
+    "BALANCE AMT": 440008,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43034,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43034,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 940008,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43035,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26101",
+    "VALUE DATE": 43035,
+    "WITHDRAWAL AMT": 208000,
+    "BALANCE AMT": 732008,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43038,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43038,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1232008,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43038,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27101",
+    "VALUE DATE": 43038,
+    "WITHDRAWAL AMT": 291150,
+    "BALANCE AMT": 940858,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43038,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28101",
+    "VALUE DATE": 43038,
+    "WITHDRAWAL AMT": 24000,
+    "BALANCE AMT": 916858,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43039,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30101",
+    "VALUE DATE": 43039,
+    "WITHDRAWAL AMT": 141546,
+    "BALANCE AMT": 775312,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43040,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31101",
+    "VALUE DATE": 43040,
+    "WITHDRAWAL AMT": 80000,
+    "BALANCE AMT": 695312,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43041,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01111",
+    "VALUE DATE": 43041,
+    "WITHDRAWAL AMT": 46250,
+    "BALANCE AMT": 649062,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43042,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02111",
+    "VALUE DATE": 43042,
+    "WITHDRAWAL AMT": 42825,
+    "BALANCE AMT": 606237,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43045,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03111",
+    "VALUE DATE": 43045,
+    "WITHDRAWAL AMT": 179463,
+    "BALANCE AMT": 426774,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43045,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04111",
+    "VALUE DATE": 43045,
+    "WITHDRAWAL AMT": 18949,
+    "BALANCE AMT": 407825,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43045,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05111",
+    "VALUE DATE": 43045,
+    "WITHDRAWAL AMT": 91441,
+    "BALANCE AMT": 316384,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43046,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06111",
+    "VALUE DATE": 43046,
+    "WITHDRAWAL AMT": 147750,
+    "BALANCE AMT": 168634,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43047,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43047,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 668634,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43047,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43047,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1168634,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43047,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07111",
+    "VALUE DATE": 43047,
+    "WITHDRAWAL AMT": 110188,
+    "BALANCE AMT": 1058446,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43048,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08111",
+    "VALUE DATE": 43048,
+    "WITHDRAWAL AMT": 61870,
+    "BALANCE AMT": 996576,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43049,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09111",
+    "VALUE DATE": 43049,
+    "WITHDRAWAL AMT": 84101,
+    "BALANCE AMT": 912475,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43053,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10111",
+    "VALUE DATE": 43053,
+    "WITHDRAWAL AMT": 129700,
+    "BALANCE AMT": 782775,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43053,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11111",
+    "VALUE DATE": 43053,
+    "WITHDRAWAL AMT": 7499,
+    "BALANCE AMT": 775276,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43053,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12111",
+    "VALUE DATE": 43053,
+    "WITHDRAWAL AMT": 80100,
+    "BALANCE AMT": 695176,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43053,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13111",
+    "VALUE DATE": 43053,
+    "WITHDRAWAL AMT": 143850,
+    "BALANCE AMT": 551326,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43054,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14111",
+    "VALUE DATE": 43054,
+    "WITHDRAWAL AMT": 289500,
+    "BALANCE AMT": 261826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43056,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43056,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 761826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43056,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43056,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1261826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43056,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16111",
+    "VALUE DATE": 43056,
+    "WITHDRAWAL AMT": 94900,
+    "BALANCE AMT": 1166926,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43056,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15111",
+    "VALUE DATE": 43056,
+    "WITHDRAWAL AMT": 224851,
+    "BALANCE AMT": 942075,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43057,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17111",
+    "VALUE DATE": 43057,
+    "WITHDRAWAL AMT": 284953,
+    "BALANCE AMT": 657122,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43059,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18111",
+    "VALUE DATE": 43059,
+    "WITHDRAWAL AMT": 115150,
+    "BALANCE AMT": 541972,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43059,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19111",
+    "VALUE DATE": 43059,
+    "WITHDRAWAL AMT": 40000,
+    "BALANCE AMT": 501972,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43060,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43060,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1001972,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43060,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20111",
+    "VALUE DATE": 43060,
+    "WITHDRAWAL AMT": 145900,
+    "BALANCE AMT": 856072,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43061,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21111",
+    "VALUE DATE": 43061,
+    "WITHDRAWAL AMT": 83251,
+    "BALANCE AMT": 772821,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43062,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22111",
+    "VALUE DATE": 43062,
+    "WITHDRAWAL AMT": 192200,
+    "BALANCE AMT": 580621,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43063,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23111",
+    "VALUE DATE": 43063,
+    "WITHDRAWAL AMT": 74799,
+    "BALANCE AMT": 505822,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43066,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43066,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1005822,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43066,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24117",
+    "VALUE DATE": 43066,
+    "WITHDRAWAL AMT": 19400,
+    "BALANCE AMT": 986422,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43066,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25117",
+    "VALUE DATE": 43066,
+    "WITHDRAWAL AMT": 39700,
+    "BALANCE AMT": 946722,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43066,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26117",
+    "VALUE DATE": 43066,
+    "WITHDRAWAL AMT": 42800,
+    "BALANCE AMT": 903922,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43067,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27111",
+    "VALUE DATE": 43067,
+    "WITHDRAWAL AMT": 100402,
+    "BALANCE AMT": 803520,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43068,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28111",
+    "VALUE DATE": 43068,
+    "WITHDRAWAL AMT": 101500,
+    "BALANCE AMT": 702020,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43069,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29111",
+    "VALUE DATE": 43069,
+    "WITHDRAWAL AMT": 36961,
+    "BALANCE AMT": 665059,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43071,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30111",
+    "VALUE DATE": 43071,
+    "WITHDRAWAL AMT": 67850,
+    "BALANCE AMT": 597209,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43071,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01121",
+    "VALUE DATE": 43071,
+    "WITHDRAWAL AMT": 19800,
+    "BALANCE AMT": 577409,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43073,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02121",
+    "VALUE DATE": 43073,
+    "WITHDRAWAL AMT": 10000,
+    "BALANCE AMT": 567409,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43073,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03121",
+    "VALUE DATE": 43073,
+    "WITHDRAWAL AMT": 24500,
+    "BALANCE AMT": 542909,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43074,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04121",
+    "VALUE DATE": 43074,
+    "WITHDRAWAL AMT": 41700,
+    "BALANCE AMT": 501209,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43075,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43075,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1001209,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43075,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05121",
+    "VALUE DATE": 43075,
+    "WITHDRAWAL AMT": 218050,
+    "BALANCE AMT": 783159,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43076,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06121",
+    "VALUE DATE": 43076,
+    "WITHDRAWAL AMT": 186400,
+    "BALANCE AMT": 596759,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43077,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07121",
+    "VALUE DATE": 43077,
+    "WITHDRAWAL AMT": 171330,
+    "BALANCE AMT": 425429,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43080,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08121",
+    "VALUE DATE": 43080,
+    "WITHDRAWAL AMT": 34400,
+    "BALANCE AMT": 391029,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43080,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09121",
+    "VALUE DATE": 43080,
+    "WITHDRAWAL AMT": 51199,
+    "BALANCE AMT": 339830,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43080,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10121",
+    "VALUE DATE": 43080,
+    "WITHDRAWAL AMT": 159150,
+    "BALANCE AMT": 180680,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43081,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43081,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 680680,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43081,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43081,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1180680,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43082,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11121",
+    "VALUE DATE": 43082,
+    "WITHDRAWAL AMT": 206075,
+    "BALANCE AMT": 974605,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43082,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12121",
+    "VALUE DATE": 43082,
+    "WITHDRAWAL AMT": 142000,
+    "BALANCE AMT": 832605,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43083,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13121",
+    "VALUE DATE": 43083,
+    "WITHDRAWAL AMT": 350350,
+    "BALANCE AMT": 482255,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43084,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14121",
+    "VALUE DATE": 43084,
+    "WITHDRAWAL AMT": 343900,
+    "BALANCE AMT": 138355,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43087,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43087,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 638355,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43087,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43087,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1138355,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43087,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15121",
+    "VALUE DATE": 43087,
+    "WITHDRAWAL AMT": 210500,
+    "BALANCE AMT": 927855,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43087,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17121",
+    "VALUE DATE": 43087,
+    "WITHDRAWAL AMT": 139500,
+    "BALANCE AMT": 788355,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43087,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16121",
+    "VALUE DATE": 43087,
+    "WITHDRAWAL AMT": 92550,
+    "BALANCE AMT": 695805,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43088,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43088,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1195805,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43088,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43088,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1695805,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43088,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18121",
+    "VALUE DATE": 43088,
+    "WITHDRAWAL AMT": 654498,
+    "BALANCE AMT": 1041307,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43089,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19121",
+    "VALUE DATE": 43089,
+    "WITHDRAWAL AMT": 504450,
+    "BALANCE AMT": 536857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43089,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43089,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1036857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43090,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20121",
+    "VALUE DATE": 43090,
+    "WITHDRAWAL AMT": 561225,
+    "BALANCE AMT": 475632,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43090,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43090,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 975632,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43090,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43090,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1475632,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43091,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21121",
+    "VALUE DATE": 43091,
+    "WITHDRAWAL AMT": 146050,
+    "BALANCE AMT": 1329582,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43095,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22121",
+    "VALUE DATE": 43095,
+    "WITHDRAWAL AMT": 100300,
+    "BALANCE AMT": 1229282,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43095,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23121",
+    "VALUE DATE": 43095,
+    "WITHDRAWAL AMT": 62425,
+    "BALANCE AMT": 1166857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43095,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24121",
+    "VALUE DATE": 43095,
+    "WITHDRAWAL AMT": 365300,
+    "BALANCE AMT": 801557,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43095,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25121",
+    "VALUE DATE": 43095,
+    "WITHDRAWAL AMT": 23550,
+    "BALANCE AMT": 778007,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43096,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43096,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1278007,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43096,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26121",
+    "VALUE DATE": 43096,
+    "WITHDRAWAL AMT": 259525,
+    "BALANCE AMT": 1018482,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43097,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27121",
+    "VALUE DATE": 43097,
+    "WITHDRAWAL AMT": 383110,
+    "BALANCE AMT": 635372,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43098,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28121",
+    "VALUE DATE": 43098,
+    "WITHDRAWAL AMT": 138150,
+    "BALANCE AMT": 497222,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43098,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43098,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 997222,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43099,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29121",
+    "VALUE DATE": 43099,
+    "WITHDRAWAL AMT": 285399,
+    "BALANCE AMT": 711823,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43101,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31121",
+    "VALUE DATE": 43101,
+    "WITHDRAWAL AMT": 14000,
+    "BALANCE AMT": 697823,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43101,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30121",
+    "VALUE DATE": 43101,
+    "WITHDRAWAL AMT": 54250,
+    "BALANCE AMT": 643573,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43102,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01011",
+    "VALUE DATE": 43102,
+    "WITHDRAWAL AMT": 147500,
+    "BALANCE AMT": 496073,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43103,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43103,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 996073,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43103,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02011",
+    "VALUE DATE": 43103,
+    "WITHDRAWAL AMT": 323500,
+    "BALANCE AMT": 672573,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43104,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03011",
+    "VALUE DATE": 43104,
+    "WITHDRAWAL AMT": 180300,
+    "BALANCE AMT": 492273,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43105,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43105,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 992273,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43105,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43105,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1492273,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43105,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04011",
+    "VALUE DATE": 43105,
+    "WITHDRAWAL AMT": 222800,
+    "BALANCE AMT": 1269473,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43106,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05011",
+    "VALUE DATE": 43106,
+    "WITHDRAWAL AMT": 145450,
+    "BALANCE AMT": 1124023,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43109,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06011",
+    "VALUE DATE": 43109,
+    "WITHDRAWAL AMT": 182000,
+    "BALANCE AMT": 942023,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43109,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07011",
+    "VALUE DATE": 43109,
+    "WITHDRAWAL AMT": 205075,
+    "BALANCE AMT": 736948,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43109,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08011",
+    "VALUE DATE": 43109,
+    "WITHDRAWAL AMT": 170500,
+    "BALANCE AMT": 566448,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43109,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43109,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1066448,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43110,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09011",
+    "VALUE DATE": 43110,
+    "WITHDRAWAL AMT": 495252,
+    "BALANCE AMT": 571196,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43111,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10011",
+    "VALUE DATE": 43111,
+    "WITHDRAWAL AMT": 256600,
+    "BALANCE AMT": 314596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43112,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43112,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 814596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43112,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43112,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1314596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43112,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43112,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1814596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43112,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43112,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2314596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43115,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14011",
+    "VALUE DATE": 43115,
+    "WITHDRAWAL AMT": 5000,
+    "BALANCE AMT": 2309596,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43115,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11011",
+    "VALUE DATE": 43115,
+    "WITHDRAWAL AMT": 348200,
+    "BALANCE AMT": 1961396,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43115,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13011",
+    "VALUE DATE": 43115,
+    "WITHDRAWAL AMT": 112900,
+    "BALANCE AMT": 1848496,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43115,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12011",
+    "VALUE DATE": 43115,
+    "WITHDRAWAL AMT": 392251,
+    "BALANCE AMT": 1456245,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43116,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15011",
+    "VALUE DATE": 43116,
+    "WITHDRAWAL AMT": 412300,
+    "BALANCE AMT": 1043945,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43117,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16011",
+    "VALUE DATE": 43117,
+    "WITHDRAWAL AMT": 518375,
+    "BALANCE AMT": 525570,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43120,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19011",
+    "VALUE DATE": 43120,
+    "WITHDRAWAL AMT": 296450,
+    "BALANCE AMT": 229120,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43122,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43122,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 729120,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43122,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43122,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1229120,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43123,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22011",
+    "VALUE DATE": 43123,
+    "WITHDRAWAL AMT": 274600,
+    "BALANCE AMT": 954520,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43123,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20011",
+    "VALUE DATE": 43123,
+    "WITHDRAWAL AMT": 159725,
+    "BALANCE AMT": 794795,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43123,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21011",
+    "VALUE DATE": 43123,
+    "WITHDRAWAL AMT": 69000,
+    "BALANCE AMT": 725795,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43123,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18011",
+    "VALUE DATE": 43123,
+    "WITHDRAWAL AMT": 244350,
+    "BALANCE AMT": 481445,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43124,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23011",
+    "VALUE DATE": 43124,
+    "WITHDRAWAL AMT": 224800,
+    "BALANCE AMT": 256645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43129,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 756645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43129,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1256645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43129,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1756645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 135050,
+    "BALANCE AMT": 1621595,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 31300,
+    "BALANCE AMT": 1590295,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 20500,
+    "BALANCE AMT": 1569795,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 5500,
+    "BALANCE AMT": 1564295,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 204900,
+    "BALANCE AMT": 1359395,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43129,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17011",
+    "VALUE DATE": 43129,
+    "WITHDRAWAL AMT": 563250,
+    "BALANCE AMT": 796145,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43130,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29011",
+    "VALUE DATE": 43130,
+    "WITHDRAWAL AMT": 207100,
+    "BALANCE AMT": 589045,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43131,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30011",
+    "VALUE DATE": 43131,
+    "WITHDRAWAL AMT": 138250,
+    "BALANCE AMT": 450795,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43132,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31011",
+    "VALUE DATE": 43132,
+    "WITHDRAWAL AMT": 196150,
+    "BALANCE AMT": 254645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43133,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43133,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 754645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43133,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43133,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1254645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43133,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43133,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1754645,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43134,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02021",
+    "VALUE DATE": 43134,
+    "WITHDRAWAL AMT": 119675,
+    "BALANCE AMT": 1634970,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43134,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01021",
+    "VALUE DATE": 43134,
+    "WITHDRAWAL AMT": 137775,
+    "BALANCE AMT": 1497195,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43138,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03021",
+    "VALUE DATE": 43138,
+    "WITHDRAWAL AMT": 61500,
+    "BALANCE AMT": 1435695,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43138,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05021",
+    "VALUE DATE": 43138,
+    "WITHDRAWAL AMT": 138350,
+    "BALANCE AMT": 1297345,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43138,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06021",
+    "VALUE DATE": 43138,
+    "WITHDRAWAL AMT": 239400,
+    "BALANCE AMT": 1057945,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43139,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43139,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1557945,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43139,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43139,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2057945,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43140,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07021",
+    "VALUE DATE": 43140,
+    "WITHDRAWAL AMT": 271124,
+    "BALANCE AMT": 1786821,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43140,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08021",
+    "VALUE DATE": 43140,
+    "WITHDRAWAL AMT": 300799,
+    "BALANCE AMT": 1486022,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09021",
+    "VALUE DATE": 43147,
+    "WITHDRAWAL AMT": 334900,
+    "BALANCE AMT": 1151122,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10021",
+    "VALUE DATE": 43147,
+    "WITHDRAWAL AMT": 68250,
+    "BALANCE AMT": 1082872,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13021",
+    "VALUE DATE": 43147,
+    "WITHDRAWAL AMT": 307125,
+    "BALANCE AMT": 775747,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14021",
+    "VALUE DATE": 43147,
+    "WITHDRAWAL AMT": 475300,
+    "BALANCE AMT": 300447,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43147,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 800447,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43147,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1300447,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43147,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43147,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1800447,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43148,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12021",
+    "VALUE DATE": 43148,
+    "WITHDRAWAL AMT": 594328,
+    "BALANCE AMT": 1206119,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43148,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15021",
+    "VALUE DATE": 43148,
+    "WITHDRAWAL AMT": 387100,
+    "BALANCE AMT": 819019,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43150,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43150,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1319019,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43152,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16021",
+    "VALUE DATE": 43152,
+    "WITHDRAWAL AMT": 710800,
+    "BALANCE AMT": 608219,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43152,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17021",
+    "VALUE DATE": 43152,
+    "WITHDRAWAL AMT": 385400,
+    "BALANCE AMT": 222819,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43153,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 722819,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43153,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1222819,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18021",
+    "VALUE DATE": 43153,
+    "WITHDRAWAL AMT": 79350,
+    "BALANCE AMT": 1143469,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19021",
+    "VALUE DATE": 43153,
+    "WITHDRAWAL AMT": 385200,
+    "BALANCE AMT": 758269,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20021",
+    "VALUE DATE": 43153,
+    "WITHDRAWAL AMT": 299950,
+    "BALANCE AMT": 458319,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43153,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43153,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 958319,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43154,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43154,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1458319,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21021",
+    "VALUE DATE": 43157,
+    "WITHDRAWAL AMT": 273500,
+    "BALANCE AMT": 1184819,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22021",
+    "VALUE DATE": 43157,
+    "WITHDRAWAL AMT": 237500,
+    "BALANCE AMT": 947319,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23021",
+    "VALUE DATE": 43157,
+    "WITHDRAWAL AMT": 277753,
+    "BALANCE AMT": 669566,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24021",
+    "VALUE DATE": 43157,
+    "WITHDRAWAL AMT": 70300,
+    "BALANCE AMT": 599266,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25021",
+    "VALUE DATE": 43157,
+    "WITHDRAWAL AMT": 62400,
+    "BALANCE AMT": 536866,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43157,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1036866,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43157,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43157,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1536866,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43158,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26021",
+    "VALUE DATE": 43158,
+    "WITHDRAWAL AMT": 103300,
+    "BALANCE AMT": 1433566,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43159,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27021",
+    "VALUE DATE": 43159,
+    "WITHDRAWAL AMT": 182450,
+    "BALANCE AMT": 1251116,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43160,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43160,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1751116,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43160,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43160,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2251116,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43164,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03031",
+    "VALUE DATE": 43164,
+    "WITHDRAWAL AMT": 155500,
+    "BALANCE AMT": 2095616,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43166,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28021",
+    "VALUE DATE": 43166,
+    "WITHDRAWAL AMT": 244350,
+    "BALANCE AMT": 1851266,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43166,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01031",
+    "VALUE DATE": 43166,
+    "WITHDRAWAL AMT": 202799,
+    "BALANCE AMT": 1648467,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43166,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03031",
+    "VALUE DATE": 43166,
+    "WITHDRAWAL AMT": 155500,
+    "BALANCE AMT": 1492967,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43166,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05031",
+    "VALUE DATE": 43166,
+    "WITHDRAWAL AMT": 153300,
+    "BALANCE AMT": 1339667,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43166,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06031",
+    "VALUE DATE": 43166,
+    "WITHDRAWAL AMT": 350150,
+    "BALANCE AMT": 989517,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43167,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07031",
+    "VALUE DATE": 43167,
+    "WITHDRAWAL AMT": 371900,
+    "BALANCE AMT": 617617,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43168,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08031",
+    "VALUE DATE": 43168,
+    "WITHDRAWAL AMT": 345930,
+    "BALANCE AMT": 271687,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43168,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43168,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 771687,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43168,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43168,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1271687,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43171,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09031",
+    "VALUE DATE": 43171,
+    "WITHDRAWAL AMT": 390850,
+    "BALANCE AMT": 880837,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43171,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL1003",
+    "VALUE DATE": 43171,
+    "WITHDRAWAL AMT": 85800,
+    "BALANCE AMT": 795037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43171,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11031",
+    "VALUE DATE": 43171,
+    "WITHDRAWAL AMT": 45000,
+    "BALANCE AMT": 750037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43171,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43171,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1250037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43171,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43171,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1750037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43172,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12031",
+    "VALUE DATE": 43172,
+    "WITHDRAWAL AMT": 577493,
+    "BALANCE AMT": 1172544,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43173,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13031",
+    "VALUE DATE": 43173,
+    "WITHDRAWAL AMT": 556224,
+    "BALANCE AMT": 616320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43173,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43173,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1116320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43173,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43173,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1616320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43174,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14031",
+    "VALUE DATE": 43174,
+    "WITHDRAWAL AMT": 425700,
+    "BALANCE AMT": 1190620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43175,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15031",
+    "VALUE DATE": 43175,
+    "WITHDRAWAL AMT": 213463,
+    "BALANCE AMT": 977157,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43175,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43175,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1477157,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43176,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16031",
+    "VALUE DATE": 43176,
+    "WITHDRAWAL AMT": 199983,
+    "BALANCE AMT": 1277174,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43178,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17031",
+    "VALUE DATE": 43178,
+    "WITHDRAWAL AMT": 230510,
+    "BALANCE AMT": 1046664,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43178,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18031",
+    "VALUE DATE": 43178,
+    "WITHDRAWAL AMT": 10000,
+    "BALANCE AMT": 1036664,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19031",
+    "VALUE DATE": 43179,
+    "WITHDRAWAL AMT": 335250,
+    "BALANCE AMT": 701414,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43179,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1201414,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "Indfor INCM INDO REVREMI0303",
+    "VALUE DATE": 43179,
+    "DEPOSIT AMT": 1320,
+    "BALANCE AMT": 1202734,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "INDO GIBLOXGN REVSTL03031",
+    "VALUE DATE": 43179,
+    "DEPOSIT AMT": 155500,
+    "BALANCE AMT": 1358234,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "Indfor INCM INDO REVREMI0103",
+    "VALUE DATE": 43179,
+    "DEPOSIT AMT": 202799,
+    "BALANCE AMT": 1561033,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43179,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01031",
+    "VALUE DATE": 43179,
+    "WITHDRAWAL AMT": 200799,
+    "BALANCE AMT": 1360234,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43181,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20031",
+    "VALUE DATE": 43181,
+    "WITHDRAWAL AMT": 434450,
+    "BALANCE AMT": 925784,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43181,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21031",
+    "VALUE DATE": 43181,
+    "WITHDRAWAL AMT": 292175,
+    "BALANCE AMT": 633609,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43181,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43181,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1133609,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43181,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43181,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1633609,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43182,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22031",
+    "VALUE DATE": 43182,
+    "WITHDRAWAL AMT": 301200,
+    "BALANCE AMT": 1332409,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43182,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43182,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1832409,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43185,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23031",
+    "VALUE DATE": 43185,
+    "WITHDRAWAL AMT": 218975,
+    "BALANCE AMT": 1613434,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43185,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24031",
+    "VALUE DATE": 43185,
+    "WITHDRAWAL AMT": 44800,
+    "BALANCE AMT": 1568634,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43185,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25031",
+    "VALUE DATE": 43185,
+    "WITHDRAWAL AMT": 12000,
+    "BALANCE AMT": 1556634,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43186,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26031",
+    "VALUE DATE": 43186,
+    "WITHDRAWAL AMT": 259150,
+    "BALANCE AMT": 1297484,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43187,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27031",
+    "VALUE DATE": 43187,
+    "WITHDRAWAL AMT": 139650,
+    "BALANCE AMT": 1157834,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43190,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28031",
+    "VALUE DATE": 43190,
+    "WITHDRAWAL AMT": 164600,
+    "BALANCE AMT": 993234,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43190,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29031",
+    "VALUE DATE": 43190,
+    "WITHDRAWAL AMT": 81675,
+    "BALANCE AMT": 911559,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43190,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30031",
+    "VALUE DATE": 43190,
+    "WITHDRAWAL AMT": 85750,
+    "BALANCE AMT": 825809,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43190,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43190,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1325809,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43195,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43195,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1825809,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43195,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43195,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2325809,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31031",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 150950,
+    "BALANCE AMT": 2174859,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01041",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 20000,
+    "BALANCE AMT": 2154859,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02041",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 26400,
+    "BALANCE AMT": 2128459,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03041",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 109650,
+    "BALANCE AMT": 2018809,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04041",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 318100,
+    "BALANCE AMT": 1700709,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43196,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05041",
+    "VALUE DATE": 43196,
+    "WITHDRAWAL AMT": 309200,
+    "BALANCE AMT": 1391509,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43197,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06041",
+    "VALUE DATE": 43197,
+    "WITHDRAWAL AMT": 303600,
+    "BALANCE AMT": 1087909,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43199,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07041",
+    "VALUE DATE": 43199,
+    "WITHDRAWAL AMT": 48800,
+    "BALANCE AMT": 1039109,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43199,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43199,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1539109,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43200,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09041",
+    "VALUE DATE": 43200,
+    "WITHDRAWAL AMT": 305950,
+    "BALANCE AMT": 1233159,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43201,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43201,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1733159,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43201,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10041",
+    "VALUE DATE": 43201,
+    "WITHDRAWAL AMT": 162600,
+    "BALANCE AMT": 1570559,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43202,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11041",
+    "VALUE DATE": 43202,
+    "WITHDRAWAL AMT": 639700,
+    "BALANCE AMT": 930859,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43202,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43202,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1430859,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43203,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12041",
+    "VALUE DATE": 43203,
+    "WITHDRAWAL AMT": 363900,
+    "BALANCE AMT": 1066959,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43203,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43203,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1566959,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43203,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43203,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2066959,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43206,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13041",
+    "VALUE DATE": 43206,
+    "WITHDRAWAL AMT": 347950,
+    "BALANCE AMT": 1719009,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43206,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14041",
+    "VALUE DATE": 43206,
+    "WITHDRAWAL AMT": 76900,
+    "BALANCE AMT": 1642109,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43206,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15041",
+    "VALUE DATE": 43206,
+    "WITHDRAWAL AMT": 48000,
+    "BALANCE AMT": 1594109,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43207,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16041",
+    "VALUE DATE": 43207,
+    "WITHDRAWAL AMT": 555650,
+    "BALANCE AMT": 1038459,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43208,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43208,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1538459,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43208,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17041",
+    "VALUE DATE": 43208,
+    "WITHDRAWAL AMT": 574150,
+    "BALANCE AMT": 964309,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43209,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18041",
+    "VALUE DATE": 43209,
+    "WITHDRAWAL AMT": 388550,
+    "BALANCE AMT": 575759,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43209,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43209,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1075759,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43210,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19041",
+    "VALUE DATE": 43210,
+    "WITHDRAWAL AMT": 276300,
+    "BALANCE AMT": 799459,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43211,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20041",
+    "VALUE DATE": 43211,
+    "WITHDRAWAL AMT": 167591,
+    "BALANCE AMT": 631868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43211,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43211,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1131868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43211,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43211,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1631868,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43215,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21041",
+    "VALUE DATE": 43215,
+    "WITHDRAWAL AMT": 242700,
+    "BALANCE AMT": 1389168,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43215,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22041",
+    "VALUE DATE": 43215,
+    "WITHDRAWAL AMT": 92900,
+    "BALANCE AMT": 1296268,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43215,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23041",
+    "VALUE DATE": 43215,
+    "WITHDRAWAL AMT": 315750,
+    "BALANCE AMT": 980518,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43215,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24041",
+    "VALUE DATE": 43215,
+    "WITHDRAWAL AMT": 377300,
+    "BALANCE AMT": 603218,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43216,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43216,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1103218,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43216,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43216,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1603218,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43217,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25041",
+    "VALUE DATE": 43217,
+    "WITHDRAWAL AMT": 414276,
+    "BALANCE AMT": 1188942,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43217,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26041",
+    "VALUE DATE": 43217,
+    "WITHDRAWAL AMT": 351100,
+    "BALANCE AMT": 837842,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43217,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43217,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1337842,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43221,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43221,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1837842,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27041",
+    "VALUE DATE": 43222,
+    "WITHDRAWAL AMT": 229949,
+    "BALANCE AMT": 1607893,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28041",
+    "VALUE DATE": 43222,
+    "WITHDRAWAL AMT": 160300,
+    "BALANCE AMT": 1447593,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29041",
+    "VALUE DATE": 43222,
+    "WITHDRAWAL AMT": 76000,
+    "BALANCE AMT": 1371593,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30041",
+    "VALUE DATE": 43222,
+    "WITHDRAWAL AMT": 60449,
+    "BALANCE AMT": 1311144,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01051",
+    "VALUE DATE": 43222,
+    "WITHDRAWAL AMT": 259075,
+    "BALANCE AMT": 1052069,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43222,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43222,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1552069,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43223,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02051",
+    "VALUE DATE": 43223,
+    "WITHDRAWAL AMT": 206700,
+    "BALANCE AMT": 1345369,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43223,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43223,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1845369,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43224,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03051",
+    "VALUE DATE": 43224,
+    "WITHDRAWAL AMT": 237000,
+    "BALANCE AMT": 1608369,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43225,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04051",
+    "VALUE DATE": 43225,
+    "WITHDRAWAL AMT": 272000,
+    "BALANCE AMT": 1336369,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43227,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05051",
+    "VALUE DATE": 43227,
+    "WITHDRAWAL AMT": 387749,
+    "BALANCE AMT": 948620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43227,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06051",
+    "VALUE DATE": 43227,
+    "WITHDRAWAL AMT": 101050,
+    "BALANCE AMT": 847570,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43227,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43227,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1347570,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43228,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07051",
+    "VALUE DATE": 43228,
+    "WITHDRAWAL AMT": 392900,
+    "BALANCE AMT": 954670,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43229,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08051",
+    "VALUE DATE": 43229,
+    "WITHDRAWAL AMT": 290350,
+    "BALANCE AMT": 664320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43229,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43229,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1164320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43229,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43229,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1664320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43230,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09051",
+    "VALUE DATE": 43230,
+    "WITHDRAWAL AMT": 365625,
+    "BALANCE AMT": 1298695,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43231,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10051",
+    "VALUE DATE": 43231,
+    "WITHDRAWAL AMT": 352850,
+    "BALANCE AMT": 945845,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43231,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43231,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1445845,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43234,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11051",
+    "VALUE DATE": 43234,
+    "WITHDRAWAL AMT": 345749,
+    "BALANCE AMT": 1100096,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43234,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12051",
+    "VALUE DATE": 43234,
+    "WITHDRAWAL AMT": 225300,
+    "BALANCE AMT": 874796,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43234,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13051",
+    "VALUE DATE": 43234,
+    "WITHDRAWAL AMT": 10000,
+    "BALANCE AMT": 864796,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43234,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43234,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1364796,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43235,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14051",
+    "VALUE DATE": 43235,
+    "WITHDRAWAL AMT": 823240,
+    "BALANCE AMT": 541556,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43235,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43235,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1041556,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43235,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43235,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1541556,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43236,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15051",
+    "VALUE DATE": 43236,
+    "WITHDRAWAL AMT": 785049,
+    "BALANCE AMT": 756507,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43237,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43237,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1256507,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43237,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16051",
+    "VALUE DATE": 43237,
+    "WITHDRAWAL AMT": 403100,
+    "BALANCE AMT": 853407,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43237,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43237,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1353407,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43238,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17051",
+    "VALUE DATE": 43238,
+    "WITHDRAWAL AMT": 459800,
+    "BALANCE AMT": 893607,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43238,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43238,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1393607,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43239,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18051",
+    "VALUE DATE": 43239,
+    "WITHDRAWAL AMT": 373850,
+    "BALANCE AMT": 1019757,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43241,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19051",
+    "VALUE DATE": 43241,
+    "WITHDRAWAL AMT": 265500,
+    "BALANCE AMT": 754257,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43241,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20051",
+    "VALUE DATE": 43241,
+    "WITHDRAWAL AMT": 25700,
+    "BALANCE AMT": 728557,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43241,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43241,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1228557,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43242,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21051",
+    "VALUE DATE": 43242,
+    "WITHDRAWAL AMT": 376125,
+    "BALANCE AMT": 852432,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43242,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43242,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1352432,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43243,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22051",
+    "VALUE DATE": 43243,
+    "WITHDRAWAL AMT": 265250,
+    "BALANCE AMT": 1087182,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43244,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23051",
+    "VALUE DATE": 43244,
+    "WITHDRAWAL AMT": 119100,
+    "BALANCE AMT": 968082,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43244,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43244,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1468082,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43245,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24051",
+    "VALUE DATE": 43245,
+    "WITHDRAWAL AMT": 93350,
+    "BALANCE AMT": 1374732,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43248,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25051",
+    "VALUE DATE": 43248,
+    "WITHDRAWAL AMT": 201000,
+    "BALANCE AMT": 1173732,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43248,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26051",
+    "VALUE DATE": 43248,
+    "WITHDRAWAL AMT": 80475,
+    "BALANCE AMT": 1093257,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43248,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27051",
+    "VALUE DATE": 43248,
+    "WITHDRAWAL AMT": 27200,
+    "BALANCE AMT": 1066057,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43248,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43248,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1566057,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43249,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28051",
+    "VALUE DATE": 43249,
+    "WITHDRAWAL AMT": 364100,
+    "BALANCE AMT": 1201957,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43250,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29051",
+    "VALUE DATE": 43250,
+    "WITHDRAWAL AMT": 341200,
+    "BALANCE AMT": 860757,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43250,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43250,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1360757,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43251,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30051",
+    "VALUE DATE": 43251,
+    "WITHDRAWAL AMT": 234600,
+    "BALANCE AMT": 1126157,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43252,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43252,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1626157,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43252,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31051",
+    "VALUE DATE": 43252,
+    "WITHDRAWAL AMT": 78000,
+    "BALANCE AMT": 1548157,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43253,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01061",
+    "VALUE DATE": 43253,
+    "WITHDRAWAL AMT": 353500,
+    "BALANCE AMT": 1194657,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43255,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43255,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1694657,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43255,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02061",
+    "VALUE DATE": 43255,
+    "WITHDRAWAL AMT": 402850,
+    "BALANCE AMT": 1291807,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43256,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04061",
+    "VALUE DATE": 43256,
+    "WITHDRAWAL AMT": 578750,
+    "BALANCE AMT": 713057,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43257,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05061",
+    "VALUE DATE": 43257,
+    "WITHDRAWAL AMT": 251200,
+    "BALANCE AMT": 461857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43257,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43257,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 961857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43257,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43257,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1461857,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43258,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06061",
+    "VALUE DATE": 43258,
+    "WITHDRAWAL AMT": 217075,
+    "BALANCE AMT": 1244782,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43259,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07061",
+    "VALUE DATE": 43259,
+    "WITHDRAWAL AMT": 491005,
+    "BALANCE AMT": 753777,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43262,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43262,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1253777,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43262,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43262,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1753777,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43262,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08061",
+    "VALUE DATE": 43262,
+    "WITHDRAWAL AMT": 626600,
+    "BALANCE AMT": 1127177,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43262,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09061",
+    "VALUE DATE": 43262,
+    "WITHDRAWAL AMT": 340074,
+    "BALANCE AMT": 787103,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43262,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10061",
+    "VALUE DATE": 43262,
+    "WITHDRAWAL AMT": 24176,
+    "BALANCE AMT": 762927,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43263,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43263,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1262927,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43263,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43263,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1762927,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43263,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11061",
+    "VALUE DATE": 43263,
+    "WITHDRAWAL AMT": 793251,
+    "BALANCE AMT": 969676,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43264,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43264,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1469676,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43264,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12061",
+    "VALUE DATE": 43264,
+    "WITHDRAWAL AMT": 717850,
+    "BALANCE AMT": 751826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43264,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27041",
+    "VALUE DATE": 43264,
+    "WITHDRAWAL AMT": 32000,
+    "BALANCE AMT": 719826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43264,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43264,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1219826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43265,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43265,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 2219826,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43265,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13061",
+    "VALUE DATE": 43265,
+    "WITHDRAWAL AMT": 533800,
+    "BALANCE AMT": 1686026,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43266,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14061",
+    "VALUE DATE": 43266,
+    "WITHDRAWAL AMT": 559730,
+    "BALANCE AMT": 1126296,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43266,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43266,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 2126296,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43269,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17061",
+    "VALUE DATE": 43269,
+    "WITHDRAWAL AMT": 52250,
+    "BALANCE AMT": 2074046,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43269,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16061",
+    "VALUE DATE": 43269,
+    "WITHDRAWAL AMT": 140750,
+    "BALANCE AMT": 1933296,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43269,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15061",
+    "VALUE DATE": 43269,
+    "WITHDRAWAL AMT": 325200,
+    "BALANCE AMT": 1608096,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43270,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43270,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2108096,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43270,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18061",
+    "VALUE DATE": 43270,
+    "WITHDRAWAL AMT": 709200,
+    "BALANCE AMT": 1398896,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43271,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43271,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1898896,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43271,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19061",
+    "VALUE DATE": 43271,
+    "WITHDRAWAL AMT": 689650,
+    "BALANCE AMT": 1209246,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43272,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43272,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1709246,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43272,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20061",
+    "VALUE DATE": 43272,
+    "WITHDRAWAL AMT": 386200,
+    "BALANCE AMT": 1323046,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43273,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21061",
+    "VALUE DATE": 43273,
+    "WITHDRAWAL AMT": 434905,
+    "BALANCE AMT": 888141,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43273,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43273,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 1888141,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43276,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24061",
+    "VALUE DATE": 43276,
+    "WITHDRAWAL AMT": 6050,
+    "BALANCE AMT": 1882091,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43276,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23061",
+    "VALUE DATE": 43276,
+    "WITHDRAWAL AMT": 115051,
+    "BALANCE AMT": 1767040,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43276,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22061",
+    "VALUE DATE": 43276,
+    "WITHDRAWAL AMT": 242750,
+    "BALANCE AMT": 1524290,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43276,
+    "TRANSACTION DETAILS": "TRF FROM  Indiaforensic SERVICES",
+    "VALUE DATE": 43276,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 2024290,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43277,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25061",
+    "VALUE DATE": 43277,
+    "WITHDRAWAL AMT": 261438,
+    "BALANCE AMT": 1762852,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43278,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26061",
+    "VALUE DATE": 43278,
+    "WITHDRAWAL AMT": 528175,
+    "BALANCE AMT": 1234677,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43279,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43279,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1734677,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43279,
+    "TRANSACTION DETAILS": "GIBLRBL INC INDO REM27061",
+    "VALUE DATE": 43279,
+    "WITHDRAWAL AMT": 2640,
+    "BALANCE AMT": 1732037,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43279,
+    "TRANSACTION DETAILS": "INDO MFL STL270618",
+    "VALUE DATE": 43279,
+    "WITHDRAWAL AMT": 344750,
+    "BALANCE AMT": 1387287,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43280,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI28061",
+    "VALUE DATE": 43280,
+    "WITHDRAWAL AMT": 2160,
+    "BALANCE AMT": 1385127,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43280,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28061",
+    "VALUE DATE": 43280,
+    "WITHDRAWAL AMT": 410181,
+    "BALANCE AMT": 974946,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43280,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43280,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1474946,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43281,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI29061",
+    "VALUE DATE": 43281,
+    "WITHDRAWAL AMT": 1320,
+    "BALANCE AMT": 1473626,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43281,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL29061",
+    "VALUE DATE": 43281,
+    "WITHDRAWAL AMT": 176050,
+    "BALANCE AMT": 1297576,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43283,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43283,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1797576,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43283,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI30061",
+    "VALUE DATE": 43283,
+    "WITHDRAWAL AMT": 960,
+    "BALANCE AMT": 1796616,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43283,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30061",
+    "VALUE DATE": 43283,
+    "WITHDRAWAL AMT": 200250,
+    "BALANCE AMT": 1596366,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43283,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI01071",
+    "VALUE DATE": 43283,
+    "WITHDRAWAL AMT": 120,
+    "BALANCE AMT": 1596246,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43283,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01071",
+    "VALUE DATE": 43283,
+    "WITHDRAWAL AMT": 10000,
+    "BALANCE AMT": 1586246,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43285,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI02071",
+    "VALUE DATE": 43285,
+    "WITHDRAWAL AMT": 2280,
+    "BALANCE AMT": 1583966,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43285,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02071",
+    "VALUE DATE": 43285,
+    "WITHDRAWAL AMT": 282208,
+    "BALANCE AMT": 1301758,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43285,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43285,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1801758,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43285,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI03071",
+    "VALUE DATE": 43285,
+    "WITHDRAWAL AMT": 2280,
+    "BALANCE AMT": 1799478,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43285,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03071",
+    "VALUE DATE": 43285,
+    "WITHDRAWAL AMT": 323700,
+    "BALANCE AMT": 1475778,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43286,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI04071",
+    "VALUE DATE": 43286,
+    "WITHDRAWAL AMT": 3840,
+    "BALANCE AMT": 1471938,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43286,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04071",
+    "VALUE DATE": 43286,
+    "WITHDRAWAL AMT": 528300,
+    "BALANCE AMT": 943638,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43287,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI05071",
+    "VALUE DATE": 43287,
+    "WITHDRAWAL AMT": 2520,
+    "BALANCE AMT": 941118,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43287,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05071",
+    "VALUE DATE": 43287,
+    "WITHDRAWAL AMT": 431899,
+    "BALANCE AMT": 509219,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43287,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43287,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1009219,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43288,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI06071",
+    "VALUE DATE": 43288,
+    "WITHDRAWAL AMT": 2640,
+    "BALANCE AMT": 1006579,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43288,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06071",
+    "VALUE DATE": 43288,
+    "WITHDRAWAL AMT": 295000,
+    "BALANCE AMT": 711579,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43288,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43288,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1211579,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43290,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI08071",
+    "VALUE DATE": 43290,
+    "WITHDRAWAL AMT": 120,
+    "BALANCE AMT": 1211459,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43290,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08071",
+    "VALUE DATE": 43290,
+    "WITHDRAWAL AMT": 30700,
+    "BALANCE AMT": 1180759,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43290,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI07071",
+    "VALUE DATE": 43290,
+    "WITHDRAWAL AMT": 1200,
+    "BALANCE AMT": 1179559,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43290,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07071",
+    "VALUE DATE": 43290,
+    "WITHDRAWAL AMT": 213225,
+    "BALANCE AMT": 966334,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43290,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43290,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1466334,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43291,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI09071",
+    "VALUE DATE": 43291,
+    "WITHDRAWAL AMT": 4800,
+    "BALANCE AMT": 1461534,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43291,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09071",
+    "VALUE DATE": 43291,
+    "WITHDRAWAL AMT": 809926,
+    "BALANCE AMT": 651608,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43291,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43291,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1151608,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43292,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI10071",
+    "VALUE DATE": 43292,
+    "WITHDRAWAL AMT": 2640,
+    "BALANCE AMT": 1148968,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43292,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10071",
+    "VALUE DATE": 43292,
+    "WITHDRAWAL AMT": 435225,
+    "BALANCE AMT": 713743,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43292,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43292,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1213743,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43293,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43293,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1713743,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43293,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI11071",
+    "VALUE DATE": 43293,
+    "WITHDRAWAL AMT": 4560,
+    "BALANCE AMT": 1709183,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43293,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11071",
+    "VALUE DATE": 43293,
+    "WITHDRAWAL AMT": 828988,
+    "BALANCE AMT": 880195,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43293,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43293,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1380195,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43294,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI12071",
+    "VALUE DATE": 43294,
+    "WITHDRAWAL AMT": 3120,
+    "BALANCE AMT": 1377075,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43294,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12071",
+    "VALUE DATE": 43294,
+    "WITHDRAWAL AMT": 447455,
+    "BALANCE AMT": 929620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43294,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43294,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1429620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43294,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43294,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1629620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI15071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 360,
+    "BALANCE AMT": 1629260,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 69800,
+    "BALANCE AMT": 1559460,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI14071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 840,
+    "BALANCE AMT": 1558620,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 121300,
+    "BALANCE AMT": 1437320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI13071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 3000,
+    "BALANCE AMT": 1434320,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43297,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13071",
+    "VALUE DATE": 43297,
+    "WITHDRAWAL AMT": 505300,
+    "BALANCE AMT": 929020,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43298,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1129020,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43298,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1629020,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI16071",
+    "VALUE DATE": 43298,
+    "WITHDRAWAL AMT": 4080,
+    "BALANCE AMT": 1624940,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16071",
+    "VALUE DATE": 43298,
+    "WITHDRAWAL AMT": 717000,
+    "BALANCE AMT": 907940,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43298,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1107940,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43298,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43298,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1307940,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI17071",
+    "VALUE DATE": 43299,
+    "WITHDRAWAL AMT": 3960,
+    "BALANCE AMT": 1303980,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17071",
+    "VALUE DATE": 43299,
+    "WITHDRAWAL AMT": 581900,
+    "BALANCE AMT": 722080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43299,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 922080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43299,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1122080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43299,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1322080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43299,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43299,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1522080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43300,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43300,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1722080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43300,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43300,
+    "DEPOSIT AMT": 200000,
+    "BALANCE AMT": 1922080,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43300,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI18071",
+    "VALUE DATE": 43300,
+    "WITHDRAWAL AMT": 3600,
+    "BALANCE AMT": 1918480,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43300,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18071",
+    "VALUE DATE": 43300,
+    "WITHDRAWAL AMT": 663350,
+    "BALANCE AMT": 1255130,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43301,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI19071",
+    "VALUE DATE": 43301,
+    "WITHDRAWAL AMT": 1440,
+    "BALANCE AMT": 1253690,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43301,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19071",
+    "VALUE DATE": 43301,
+    "WITHDRAWAL AMT": 135800,
+    "BALANCE AMT": 1117890,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43301,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43301,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1417890,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43302,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI20071",
+    "VALUE DATE": 43302,
+    "WITHDRAWAL AMT": 3600,
+    "BALANCE AMT": 1414290,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43302,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20071",
+    "VALUE DATE": 43302,
+    "WITHDRAWAL AMT": 712099,
+    "BALANCE AMT": 702191,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43302,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43302,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 1702191,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43304,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43304,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 2002191,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43304,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI22071",
+    "VALUE DATE": 43304,
+    "WITHDRAWAL AMT": 840,
+    "BALANCE AMT": 2001351,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43304,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL22071",
+    "VALUE DATE": 43304,
+    "WITHDRAWAL AMT": 145400,
+    "BALANCE AMT": 1855951,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43304,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI21071",
+    "VALUE DATE": 43304,
+    "WITHDRAWAL AMT": 1920,
+    "BALANCE AMT": 1854031,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43304,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL21071",
+    "VALUE DATE": 43304,
+    "WITHDRAWAL AMT": 240535,
+    "BALANCE AMT": 1613496,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43305,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI23071",
+    "VALUE DATE": 43305,
+    "WITHDRAWAL AMT": 3840,
+    "BALANCE AMT": 1609656,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43305,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL23071",
+    "VALUE DATE": 43305,
+    "WITHDRAWAL AMT": 610100,
+    "BALANCE AMT": 999556,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43306,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43306,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1499556,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43306,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI24071",
+    "VALUE DATE": 43306,
+    "WITHDRAWAL AMT": 3360,
+    "BALANCE AMT": 1496196,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43306,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL24071",
+    "VALUE DATE": 43306,
+    "WITHDRAWAL AMT": 518500,
+    "BALANCE AMT": 977696,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43306,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43306,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1277696,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43306,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43306,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1577696,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43307,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI25071",
+    "VALUE DATE": 43307,
+    "WITHDRAWAL AMT": 3240,
+    "BALANCE AMT": 1574456,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43307,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL25071",
+    "VALUE DATE": 43307,
+    "WITHDRAWAL AMT": 442250,
+    "BALANCE AMT": 1132206,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43307,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43307,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1432206,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43308,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI26071",
+    "VALUE DATE": 43308,
+    "WITHDRAWAL AMT": 3240,
+    "BALANCE AMT": 1428966,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43308,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL26071",
+    "VALUE DATE": 43308,
+    "WITHDRAWAL AMT": 389600,
+    "BALANCE AMT": 1039366,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43308,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43308,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 2039366,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43311,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI27071",
+    "VALUE DATE": 43311,
+    "WITHDRAWAL AMT": 2760,
+    "BALANCE AMT": 2036606,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43311,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL27071",
+    "VALUE DATE": 43311,
+    "WITHDRAWAL AMT": 457875,
+    "BALANCE AMT": 1578731,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43311,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI28071",
+    "VALUE DATE": 43311,
+    "WITHDRAWAL AMT": 600,
+    "BALANCE AMT": 1578131,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43311,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL28071",
+    "VALUE DATE": 43311,
+    "WITHDRAWAL AMT": 66800,
+    "BALANCE AMT": 1511331,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43312,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI30071",
+    "VALUE DATE": 43312,
+    "WITHDRAWAL AMT": 2280,
+    "BALANCE AMT": 1509051,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43312,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL30071",
+    "VALUE DATE": 43312,
+    "WITHDRAWAL AMT": 341400,
+    "BALANCE AMT": 1167651,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43312,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43312,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1467651,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43313,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI31071",
+    "VALUE DATE": 43313,
+    "WITHDRAWAL AMT": 2760,
+    "BALANCE AMT": 1464891,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43313,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL31071",
+    "VALUE DATE": 43313,
+    "WITHDRAWAL AMT": 372350,
+    "BALANCE AMT": 1092541,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43313,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43313,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1392541,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43314,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI01081",
+    "VALUE DATE": 43314,
+    "WITHDRAWAL AMT": 1080,
+    "BALANCE AMT": 1391461,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43314,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL01081",
+    "VALUE DATE": 43314,
+    "WITHDRAWAL AMT": 145500,
+    "BALANCE AMT": 1245961,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43314,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43314,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1545961,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43315,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI02081",
+    "VALUE DATE": 43315,
+    "WITHDRAWAL AMT": 840,
+    "BALANCE AMT": 1545121,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43315,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL02081",
+    "VALUE DATE": 43315,
+    "WITHDRAWAL AMT": 110550,
+    "BALANCE AMT": 1434571,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43316,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI03081",
+    "VALUE DATE": 43316,
+    "WITHDRAWAL AMT": 1200,
+    "BALANCE AMT": 1433371,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43316,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL03081",
+    "VALUE DATE": 43316,
+    "WITHDRAWAL AMT": 220801,
+    "BALANCE AMT": 1212570,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43318,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI04081",
+    "VALUE DATE": 43318,
+    "WITHDRAWAL AMT": 1560,
+    "BALANCE AMT": 1211010,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43318,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL04081",
+    "VALUE DATE": 43318,
+    "WITHDRAWAL AMT": 269850,
+    "BALANCE AMT": 941160,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43318,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI05081",
+    "VALUE DATE": 43318,
+    "WITHDRAWAL AMT": 240,
+    "BALANCE AMT": 940920,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43318,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL05081",
+    "VALUE DATE": 43318,
+    "WITHDRAWAL AMT": 17500,
+    "BALANCE AMT": 923420,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43319,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43319,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1423420,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43319,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI06081",
+    "VALUE DATE": 43319,
+    "WITHDRAWAL AMT": 3720,
+    "BALANCE AMT": 1419700,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43319,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL06081",
+    "VALUE DATE": 43319,
+    "WITHDRAWAL AMT": 457050,
+    "BALANCE AMT": 962650,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43319,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43319,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1262650,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43319,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43319,
+    "DEPOSIT AMT": 300000,
+    "BALANCE AMT": 1562650,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43320,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI07081",
+    "VALUE DATE": 43320,
+    "WITHDRAWAL AMT": 3840,
+    "BALANCE AMT": 1558810,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43320,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL07081",
+    "VALUE DATE": 43320,
+    "WITHDRAWAL AMT": 662025,
+    "BALANCE AMT": 896785,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43320,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43320,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1396785,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43321,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI08081",
+    "VALUE DATE": 43321,
+    "WITHDRAWAL AMT": 3480,
+    "BALANCE AMT": 1393305,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43321,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL08081",
+    "VALUE DATE": 43321,
+    "WITHDRAWAL AMT": 556450,
+    "BALANCE AMT": 836855,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43321,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43321,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1336855,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43322,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI09081",
+    "VALUE DATE": 43322,
+    "WITHDRAWAL AMT": 2280,
+    "BALANCE AMT": 1334575,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43322,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL09081",
+    "VALUE DATE": 43322,
+    "WITHDRAWAL AMT": 336850,
+    "BALANCE AMT": 997725,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43322,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43322,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 1997725,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI10081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 2520,
+    "BALANCE AMT": 1995205,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL10081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 351200,
+    "BALANCE AMT": 1644005,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI11081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 1320,
+    "BALANCE AMT": 1642685,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL11081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 200700,
+    "BALANCE AMT": 1441985,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI12081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 840,
+    "BALANCE AMT": 1441145,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43325,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL12081",
+    "VALUE DATE": 43325,
+    "WITHDRAWAL AMT": 116260,
+    "BALANCE AMT": 1324885,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43326,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI13081",
+    "VALUE DATE": 43326,
+    "WITHDRAWAL AMT": 3480,
+    "BALANCE AMT": 1321405,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43326,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL13081",
+    "VALUE DATE": 43326,
+    "WITHDRAWAL AMT": 517655,
+    "BALANCE AMT": 803750,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43326,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43326,
+    "DEPOSIT AMT": 1000000,
+    "BALANCE AMT": 1803750,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43328,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI14081",
+    "VALUE DATE": 43328,
+    "WITHDRAWAL AMT": 3600,
+    "BALANCE AMT": 1800150,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43328,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL14081",
+    "VALUE DATE": 43328,
+    "WITHDRAWAL AMT": 561995,
+    "BALANCE AMT": 1238155,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43328,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI15081",
+    "VALUE DATE": 43328,
+    "WITHDRAWAL AMT": 1320,
+    "BALANCE AMT": 1236835,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43328,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL15081",
+    "VALUE DATE": 43328,
+    "WITHDRAWAL AMT": 212000,
+    "BALANCE AMT": 1024835,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43328,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43328,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1524835,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43329,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI16081",
+    "VALUE DATE": 43329,
+    "WITHDRAWAL AMT": 4440,
+    "BALANCE AMT": 1520395,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43329,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL16081",
+    "VALUE DATE": 43329,
+    "WITHDRAWAL AMT": 755505,
+    "BALANCE AMT": 764890,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43329,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43329,
+    "DEPOSIT AMT": 400000,
+    "BALANCE AMT": 1164890,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43330,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI17081",
+    "VALUE DATE": 43330,
+    "WITHDRAWAL AMT": 3960,
+    "BALANCE AMT": 1160930,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43330,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL17081",
+    "VALUE DATE": 43330,
+    "WITHDRAWAL AMT": 615328,
+    "BALANCE AMT": 545602,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43330,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43330,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1045602,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43330,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43330,
+    "DEPOSIT AMT": 500000,
+    "BALANCE AMT": 1545602,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43332,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI18081",
+    "VALUE DATE": 43332,
+    "WITHDRAWAL AMT": 1920,
+    "BALANCE AMT": 1543682,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43332,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL18081",
+    "VALUE DATE": 43332,
+    "WITHDRAWAL AMT": 262900,
+    "BALANCE AMT": 1280782,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43332,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI19081",
+    "VALUE DATE": 43332,
+    "WITHDRAWAL AMT": 360,
+    "BALANCE AMT": 1280422,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43332,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL19081",
+    "VALUE DATE": 43332,
+    "WITHDRAWAL AMT": 18000,
+    "BALANCE AMT": 1262422,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43333,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43333,
+    "DEPOSIT AMT": 400000,
+    "BALANCE AMT": 1662422,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43333,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI20081",
+    "VALUE DATE": 43333,
+    "WITHDRAWAL AMT": 4200,
+    "BALANCE AMT": 1658222,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43333,
+    "TRANSACTION DETAILS": "INDO GIBL Indiaforensic STL20081",
+    "VALUE DATE": 43333,
+    "WITHDRAWAL AMT": 554751,
+    "BALANCE AMT": 1103471,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43335,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43335,
+    "DEPOSIT AMT": 400000,
+    "BALANCE AMT": 1503471,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43335,
+    "TRANSACTION DETAILS": "FDRL/INTERNAL FUND TRANSFE",
+    "VALUE DATE": 43335,
+    "DEPOSIT AMT": 400000,
+    "BALANCE AMT": 1903471,
+    ".": "."
+  },
+  {
+    "Account No": "409000611074'",
+    "DATE": 43335,
+    "TRANSACTION DETAILS": "Indfor INCOME INDO REMI21081",
+    "VALUE DATE": 43335,
+    "WITHDRAWAL AMT": 5280,
+    "BALANCE AMT": 1898191,
+    ".": "."
+  }
+]
